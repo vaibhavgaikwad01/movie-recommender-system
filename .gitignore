@@ -1,0 +1,13 @@
+# Ignore virtual environments
+venv/
+
+# Ignore model files
+model/
+*.pkl
+
+# Ignore cache & system files
+__pycache__/
+*.pyc
+.DS_Store
+.ipynb_checkpoints/
+
